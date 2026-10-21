@@ -88,6 +88,10 @@ Docker is currently the easiest and recommended way to run streamystats. However
 
 [See the documentation](DOCKERLESS.md)
 
+## One-click deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Streamystats/)
+
 ## Screenshots
 
 <img width="1625" height="1083" alt="Screenshot 2025-12-23 at 11 46 07" src="https://github.com/user-attachments/assets/bcb5c90a-082e-40c2-b567-842ae6c61cf0" />
